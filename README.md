@@ -1,2 +1,0 @@
-# News
-the news place
